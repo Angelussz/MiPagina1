@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'lunatico';
+    src: url('../assets/fonts/Lunatic.ttf');
+}
+
+body{
+    background-color: #4244FB;
+}
+
+/* HEADER */
+
+.divlogo{
+    font-family: "lunatico";
+    font-size: 30px;
+}
+
+.logo{
+    
+}
+
+/* -------------------- */
