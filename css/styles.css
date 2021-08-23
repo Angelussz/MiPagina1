@@ -4,17 +4,51 @@
 }
 
 body{
+    margin: 0;
     background-color: #4244FB;
+    color: #B8D1F0;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
 }
 
 /* HEADER */
 
 .divlogo{
-    font-family: "lunatico";
-    font-size: 30px;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    /* display: inline; */
+    background-color: lightcoral;
+    
 }
 
-.logo{
+.logo,.lista li{
+    display: inline;
+
+    
+}
+
+.lista{
+    text-align:right;
+
+    /* background-color: red; */
+
+    position: relative;
+    bottom: 54px;
+    /* height: 27.48px; */
+    
+    
+}
+
+
+.lista li{
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px ;
+    background-color: green;
     
 }
 
