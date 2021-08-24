@@ -1,55 +1,17 @@
-@font-face {
-    font-family: 'lunatico';
-    src: url('../assets/fonts/Lunatic.ttf');
-}
-
 body{
     margin: 0;
-    background-color: #4244FB;
-    color: #B8D1F0;
+    background-color: #fff;
 }
 
-a{
-    color: inherit;
-    text-decoration: none;
+header{
+    text-align: center;
 }
 
-/* HEADER */
-
-.divlogo{
-
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 22px;
-    /* display: inline; */
-    background-color: lightcoral;
-    
-}
-
-.logo,.lista li{
-    display: inline;
-
-    
-}
-
-.lista{
-    text-align:right;
-
-    /* background-color: red; */
-
-    position: relative;
-    bottom: 54px;
-    /* height: 27.48px; */
-    
-    
-}
-
-
-.lista li{
-    display: inline;
-    padding-left: 3px;
-    padding-right: 3px ;
-    background-color: green;
-    
+.cintillo{
+    background-color: #9B9B9B;
+    width: 100%;
+    height: 30px;
+    margin-top: 0;
 }
 
 /* -------------------- */
